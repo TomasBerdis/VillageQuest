@@ -1,0 +1,153 @@
+Converting GML script: ${project_dir}\scripts\scr_get_input_backup\scr_get_input_backup.gml
+Converted description /// @description scr_get_input
+Converted string - line 5: 'W' -> "W"
+Converted string - line 6: 'S' -> "S"
+Converted string - line 7: 'A' -> "A"
+Converted string - line 8: 'D' -> "D"
+Converted string - line 10: 'X' -> "X"
+Converted string - line 11: 'C' -> "C"
+Converted string - line 12: 'E' -> "E"
+
+Converting GML script: ${project_dir}\scripts\scr_get_input\scr_get_input.gml
+Converted description /// @description scr_get_input
+Converted string - line 12: 'W' -> "W"
+Converted string - line 13: 'S' -> "S"
+Converted string - line 14: 'A' -> "A"
+Converted string - line 15: 'D' -> "D"
+Converted string - line 17: 'X' -> "X"
+Converted string - line 18: 'C' -> "C"
+Converted string - line 19: 'E' -> "E"
+Converted string - line 41: 'W' -> "W"
+Converted string - line 42: 'S' -> "S"
+Converted string - line 43: 'A' -> "A"
+Converted string - line 44: 'D' -> "D"
+Converted string - line 46: 'X' -> "X"
+Converted string - line 47: 'C' -> "C"
+Converted string - line 48: 'E' -> "E"
+Converted string - line 67: 'W' -> "W"
+Converted string - line 68: 'S' -> "S"
+Converted string - line 69: 'A' -> "A"
+Converted string - line 70: 'D' -> "D"
+Converted string - line 72: 'G' -> "G"
+Converted string - line 73: 'Q' -> "Q"
+Converted string - line 74: 'E' -> "E"
+
+Converting GML script: ${project_dir}\scripts\scr_get_face\scr_get_face.gml
+Converted description /// @description scr_get_face(dir)/// @param dir
+
+Converting GML script: ${project_dir}\scripts\scr_check_player\scr_check_player.gml
+Converted description /// @description scr_check_player()
+
+Converting GML script: ${project_dir}\scripts\scr_chance\scr_chance.gml
+Converted description /// @description scr_chance()
+
+Converting GML script: ${project_dir}\scripts\scr_load_game\scr_load_game.gml
+Converted description /// @description scr_load_game()
+
+Converting GML script: ${project_dir}\scripts\scr_get_words\scr_get_words.gml
+Converted description /// @description scr_get_words
+
+Converting GML script: ${project_dir}\scripts\scr_save_game\scr_save_game.gml
+Converted description /// @description scr_save_game()
+
+Converting GML script: ${project_dir}\scripts\scr_move_axis\scr_move_axis.gml
+Converted description /// @description scr_move_axis()
+
+Converting GML script: ${project_dir}\scripts\scr_move_state\scr_move_state.gml
+Converted description /// @description scr_move_state
+
+Converting GML script: ${project_dir}\scripts\scr_move_state2\scr_move_state2.gml
+Converted description /// @description scr_move_state2
+
+Converting GML script: ${project_dir}\scripts\scr_dash_state\scr_dash_state.gml
+Converted description /// @description scr_dash_state
+
+Converting GML script: ${project_dir}\scripts\scr_dash_state2\scr_dash_state2.gml
+Converted description /// @description scr_dash_state2
+
+Converting GML script: ${project_dir}\scripts\scr_frozen_state\scr_frozen_state.gml
+Converted description /// @description scr_frozen_state
+
+Converting GML script: ${project_dir}\scripts\scr_attack_state\scr_attack_state.gml
+Converted description /// @description scr_attack_state
+
+Converting GML script: ${project_dir}\scripts\scr_attack_state2\scr_attack_state2.gml
+Converted description /// @description scr_attack_state2
+
+Converting GML script: ${project_dir}\scripts\scr_stop_player_animation\scr_stop_player_animation.gml
+Converted description /// @description scr_stop_player_animation
+Converted string - line 8: 'D' -> "D"
+Converted string - line 8: 'A' -> "A"
+Converted string - line 9: 'W' -> "W"
+Converted string - line 9: 'S' -> "S"
+
+Converting GML script: ${project_dir}\scripts\scr_interact_state\scr_interact_state.gml
+Converted description /// @description scr_interact_state()
+
+Converting GML script: ${project_dir}\scripts\scr_interact_state2\scr_interact_state2.gml
+Converted description /// @description scr_interact_state2()
+
+Converting GML script: ${project_dir}\scripts\scr_cast_state\scr_cast_state.gml
+Converted description /// @description scr_cast_state()
+
+Converting GML script: ${project_dir}\scripts\scr_cast_state2\scr_cast_state2.gml
+Converted description /// @description scr_cast_state2()
+
+Converting GML script: ${project_dir}\scripts\scr_enemy_choose_state\scr_enemy_choose_state.gml
+Converted description /// @description scr_enemy_choose_state()
+
+Converting GML script: ${project_dir}\scripts\scr_enemy_idle_state\scr_enemy_idle_state.gml
+Converted description /// @description scr_enemy_idle_state()
+
+Converting GML script: ${project_dir}\scripts\scr_enemy_wander_state\scr_enemy_wander_state.gml
+Converted description /// @description scr_enemy_wander_state()
+
+Converting GML script: ${project_dir}\scripts\scr_enemy_stall_state\scr_enemy_stall_state.gml
+Converted description /// @description scr_enemy_stall_state()
+
+Converting GML script: ${project_dir}\scripts\scr_enemy_chase_state\scr_enemy_chase_state.gml
+Converted description /// @description scr_enemy_chase_state()
+
+Converting GML script: ${project_dir}\scripts\scr_animation_hit_frame\scr_animation_hit_frame.gml
+Converted description /// @description scr_animation_hit_frame(frame)/// @param frame
+
+Converting GML script: ${project_dir}\scripts\scr_set_particle\scr_set_particle.gml
+Converted description /// @description scr_set_particle()
+
+Converting GML script: ${project_dir}\scripts\draw_text_outline\draw_text_outline.gml
+Converted description /// @description draw_text_outline(x,y,str,outwidth,outcol,outfidelity)/// @param x
+/// @param y
+/// @param str
+/// @param outwidth
+/// @param outcol
+/// @param outfidelity
+
+!!! Font ft_nadpis0 font family Tempus Sans ITC is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ft_nadpis0\ft_nadpis0.gms1.png
+!!! Font ft_text0 font family Segoe UI Light is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ft_text0\ft_text0.gms1.png
+Font ft_text1 has been converted to font family Comic Sans MS (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ft_text1\ft_text1.gms1.png
+Font ft_info has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ft_info\ft_info.gms1.png
+Converting GML script: ${project_dir}\objects\obj_hitbox\Alarm_1.gml
+Converted description /// @description  Blend alarm
+
+Converting GML script: ${project_dir}\objects\obj_bucket\Collision_90cf6373-7a8a-4387-a963-750b9e8a5f09.gml
+Converted description /// @description  Collision
+
+Converting GML script: ${project_dir}\objects\obj_dialog\Create_0.gml
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_dialog\Draw_64.gml
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Missing audiogroup for sound: 'sd_random_techno' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,2 @@
+// Prepinanie moznosti
+
