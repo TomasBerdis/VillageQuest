@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sd_random_techno",
-  "duration": 0.0,
+  "duration": 33.71154,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

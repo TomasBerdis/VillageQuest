@@ -33,9 +33,10 @@ if(instance_exists(obj_active_quest) && obj_active_quest.quest != noone)
     if(obj_active_quest.completed == true) 
     {
         draw_set_colour(make_colour_rgb(1, 56, 8));
-        draw_sprite_stretched(spr_completed,0,16,192,16,16);
+        draw_sprite_stretched(spr_completed,0,16,8,16,16);
     }
-    draw_text(32, 192, string_hash_to_newline("Quest: '" + string(obj_active_quest.title) + "'  " + string(obj_active_quest.description) +" "+ string(obj_active_quest.progression)+" % "));
+	// 32, 192
+    draw_text(32, 5, string_hash_to_newline("Quest: '" + string(obj_active_quest.title) + "'  " + string(obj_active_quest.description) +" "+ string(obj_active_quest.progression)+" % "));
 }
 /*if(instance_exists(obj_quest_HardTimes) && obj_quest_HardTimes.started == true)
 {
